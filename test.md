@@ -13,8 +13,8 @@
 Эта инфа была добавлена в удаленном репозитории.
 
 
-![hahahaha_cats](https://media.discordapp.net/attachments/578221595194294335/1047486691696447558/unknown.png?width=477&height=473)
+
 
 Давайте внесем изменения на клоне от Николая)
 
-Good morning Ukraine
+Good morning Ukraine and Volodimir Zelensky
