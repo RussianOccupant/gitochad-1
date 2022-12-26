@@ -14,7 +14,7 @@ GitHub
 
 * **git diff** (show difference between commits) 
 * **git log** (To view all existing commits) 
-* **git log --oneversion** (Тo view all existing commits without too much information) 
+* **git log --oneline** (Тo view all existing commits without too much information) 
 * **git checkout** (to go to a specific branch/commit) 
 * **git branch** (show all branches) 
 * **git merge (name branch)** (merging two branches (the branch we are on will merge with the branch specified in the command)) 
